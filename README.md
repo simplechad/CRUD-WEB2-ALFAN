@@ -1,8 +1,8 @@
-# 👟 Kicks Market - Sneaker Inventory System
+# Sneaker Inventory System
 
 Aplikasi web berbasis **Laravel 12** untuk mengelola data inventaris produk *sneakers* toko e-commerce. Aplikasi ini dibuat dengan fungsionalitas CRUD (Create, Read, Update, Delete) yang lengkap dan antarmuka yang bersih (*clean design*) menggunakan **Tailwind CSS**.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **Manajemen Inventaris**: Menambahkan, melihat detail, mengedit, dan menghapus produk sneaker.
 - **Pencarian Produk**: Mencari produk berdasarkan Nama atau Brand secara *real-time* via *query string*.
@@ -13,13 +13,13 @@ Aplikasi web berbasis **Laravel 12** untuk mengelola data inventaris produk *sne
   - Harga (Termurah ke Termahal, Termahal ke Termurah)
 - **Tampilan Responsif**: Desain UI sederhana dan responsif di berbagai ukuran perangkat, dibangun tanpa mengandalkan library eksternal yang berat (murni menggunakan Tailwind CDN).
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Framework Backend**: Laravel 12
-- **Database**: SQLite (Tanpa perlu konfigurasi server MySQL)
+- **Database**: MySQL
 - **Frontend / Styling**: Blade Templating Engine + Tailwind CSS (via CDN)
 
-## 🚀 Cara Instalasi & Menjalankan di Lokal
+## Cara Instalasi & Menjalankan di Lokal
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di komputer lokal:
 
