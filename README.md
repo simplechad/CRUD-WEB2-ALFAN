@@ -16,7 +16,7 @@ Aplikasi web berbasis **Laravel 12** untuk mengelola data inventaris produk *sne
 ## Tech Stack
 
 - **Framework Backend**: Laravel 12
-- **Database**: MySQL
+- **Database**: SQLite
 - **Frontend / Styling**: Blade Templating Engine + Tailwind CSS (via CDN)
 
 ## Cara Instalasi & Menjalankan di Lokal
